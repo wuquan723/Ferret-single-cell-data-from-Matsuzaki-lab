@@ -17,3 +17,4 @@ This file(2020_CR_E25_to_P10_for_share.tar.xz) is used for basic pipeline analys
 
 Any request for R script and data can be contact with: go.quan.8w@kyoto-u.ac.jp and matsuzaki.fumio.2w@kyoto-u.ac.jp.
  
+<img width="1078" alt="Screen Shot 2023-08-04 at 14 29 14" src="https://github.com/wuquan723/Ferret-single-cell-data-from-Matsuzaki-lab/assets/62274317/9640de0c-5b8f-4a44-87bc-8e00e044a80f">
