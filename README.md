@@ -7,7 +7,7 @@ Merve Bilgic, Quan Wu, Taeko Suetsugu, Atsunori Shitamukai, Yuji Tsunekawa, Mits
 doi: https://doi.org/10.1101/2022.05.05.490846 
 
 
-Matrix files: 2020_CR_E25_to_P10_for_share.tar.xz
+Matrix files: 2020_CR_E25_to_P10_for_share.tar.xz (Please contact go.quan.8w@kyoto-u.ac.jp for sharing this matrix)
 
 md5sum: 14af659698bfe681bcbc3cabb3e42f43
 
